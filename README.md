@@ -1,4 +1,4 @@
-# OMNI-CI :- Objective Market Narrative Inference - Competitive Intelligence.
+# OMNI-CI: Objective Market Narrative Inference - Competitive Intelligence.
 
 # Competitive Intelligence Signal Engine  
 ### SNUC Hacks '26 — Problem Statement 2 (Market Intelligence)
@@ -187,4 +187,44 @@ This system enables teams to:
 
 ## Repository Structure
 
+```
+competitive-intelligence-engine/
 
+├── crawler/
+├── normalization/
+├── change_detection/
+├── embeddings/
+├── reasoning/
+├── dashboard/
+├── api/
+└── docs/
+
+```
+
+---
+
+## Future Extensions
+
+- Multi-source intelligence (reviews, ads, community signals)
+- Real-time strategic alerting
+- Cross-category trend prediction
+- Automated competitive benchmarking
+- Integration with enterprise decision systems
+
+---
+
+## Vision
+
+We aim to transform competitor monitoring from:
+
+**Manual tracking → Continuous strategic intelligence**
+
+This project demonstrates how AI-driven temporal analysis can support modern market decision-making.
+
+---
+
+## Hackathon
+
+SNUC Hacks '26  
+Problem Statement 2 — Market Intelligence
+Team: The Team
