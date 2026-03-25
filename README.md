@@ -1,1 +1,1 @@
-# OMNI-CI:- Objective Market Narrative Inference - Competitive Intelligence.
+# OMNI-CI :- Objective Market Narrative Inference - Competitive Intelligence.
